@@ -1,4 +1,4 @@
-# ;; CLUB
+[# ;; CLUB
 
 ### LINK 👉 <span style="color:aqua"> ddamddamclub.shop </span>
 데스크탑, 모바일 접속 가능 🙌
@@ -354,4 +354,4 @@ flowchart LR
 
 - #### release : 이번 출시 버전을 준비하는 브랜치
 
-- #### hotfix : 출시 버전에서 발생한 버그를 수정하는 브랜치 
+- #### hotfix : 출시 버전에서 발생한 버그를 수정하는 브랜치 ](https://ibb.co/s1xW5Q4)https://ibb.co/s1xW5Q4
